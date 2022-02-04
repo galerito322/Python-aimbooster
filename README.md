@@ -18,7 +18,7 @@ Se você baixar pelo site é importante marcar a opção para adicionar o python
 
 ![1_add_path](https://user-images.githubusercontent.com/58611244/151722169-ff4eee79-4d90-465b-84a9-14a727512667.png)
 
-Dentro da pasta do projeto através do terminal instale as dependências com o comando:
+Dentro da sua pasta do projeto através do terminal instale as dependências com o comando:
 
 ```
 pip install -r requirements.txt
