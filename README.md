@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Execute o comando para iniciar o bot:
 
 ```
-python3 aimbooster.py
+python aimbooster.py
 ```
 
 
